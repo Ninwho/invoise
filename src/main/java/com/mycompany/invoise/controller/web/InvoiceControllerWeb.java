@@ -31,7 +31,7 @@ public class InvoiceControllerWeb implements InvoiceControllerInterface {
     @RequestMapping("/invoise-home")
     public String displayHome() {
         System.out.println("La méthode displayHome a été invoquée.");
-        return "";
+        return "index";
     }
 
 }
