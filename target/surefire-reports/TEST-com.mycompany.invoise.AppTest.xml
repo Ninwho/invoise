@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="com.mycompany.invoise.AppTest" time="0.002" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="com.mycompany.invoise.AppTest" time="0.003" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2021.2"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
@@ -21,7 +21,7 @@
     <property name="java.runtime.version" value="11.0.11+9-LTS"/>
     <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
     <property name="os.arch" value="x86_64"/>
-    <property name="visualvm.id" value="17595943114490"/>
+    <property name="visualvm.id" value="9982697877423"/>
     <property name="java.io.tmpdir" value="/var/folders/zd/rcqq2x511fq972znc5fgjlg80000gn/T/"/>
     <property name="line.separator" value="
 "/>
@@ -66,5 +66,5 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="com.mycompany.invoise.AppTest" name="shouldAnswerWithTrue" time="0.002"/>
+  <testcase classname="com.mycompany.invoise.AppTest" name="shouldAnswerWithTrue" time="0.003"/>
 </testsuite>
